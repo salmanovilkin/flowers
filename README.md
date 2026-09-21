@@ -1,15 +1,31 @@
-# Happy 8 March - Red Tulips 🌷
+# Flowers 🌷
 
-This is a beautiful, CSS-only animated flower project customized specially for the 8th of March.
+A romantic, CSS-only animated flower page created for a special message and a warm spring-like atmosphere.
 
-## Changes & Features
-- 🌷 **Red Tulips**: The original cyan/blue colors have been transformed into vibrant, animated red tulips.
-- ✨ **Animated Greeting**: Features a special "Happy 8 March!" and "Just Smile Sunshine ❤️" message that gracefully fades in after the flowers have grown.
-- 🎨 **Enhanced Glow Effect**: The neon lights and ambient glows match the new romantically styled scene.
+## Overview
+- 🌷 Red tulips and glowing animated flowers
+- ✨ Personalized greeting: "You are my \"Sunshine\""
+- 🎨 Soft neon and dreamy background effects
+- 💖 Simple static web project that works directly in a browser
 
-## Credits & Author
-- **Original Flower Animation Source**: Md Usman Ansari (@MdUsmanAnsari)
-- **Original Index Organization**: Septian Dwi Cahyo (@Septiandwica)
-- **Modifications & 8 March Theme**: Customized perfectly for International Women's Day.
+## Run locally
+Open `index.html` in any browser, or serve the project locally:
 
-Feel free to open `index.html` in any browser to see the beautiful animation grow!
+```bash
+cd flowers
+python -m http.server 8000
+```
+
+Then visit:
+
+```text
+http://localhost:8000
+```
+
+## Live demo
+https://salmanovilkin.github.io/flowers/
+
+## Credits
+- Original flower animation concept: Md Usman Ansari (@MdUsmanAnsari)
+- Original structure inspiration: Septian Dwi Cahyo (@Septiandwica)
+- Customization for this project: salmanovilkin
